@@ -1,4 +1,4 @@
-#password generator
+#password generator edited
 import random as r
 
 class generatorclass :
