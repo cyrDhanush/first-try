@@ -1,4 +1,5 @@
-#password generator edited 2nd time
+#password generator edited 2nd time 3rd pc
+
 import random as r
 
 class generatorclass :
